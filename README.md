@@ -9,7 +9,7 @@
   - [MS Copilot RFP Builder Agent](https://github.com/ewblyden/RFP-Builder-Chatbot) 
 - <b>PowerShell</b>
   - [Bulk SharePoint Migration](https://github.com/ewblyden/Bulk-SPO-Migration)
-- <b>C# (.NET Desktop Applications)</b>
+- <b>C# (.NET)</b>
   - [MS Dynamics Plugin Assembly to create Task on new and updated Work Orders](https://github.com/ewblyden/Work-Order-Task-Plugin)
 - <b>Python</b>
   - [Power App Deployment with Azure CLI](https://github.com/ewblyden/Power-App-Deployment-Azure-CLI)
