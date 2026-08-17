@@ -16,6 +16,7 @@
 
 <h2>📜Credentials & Certifications </h2>
 
+- [Applied Agentic AI for Organizational Transformation](https://www.credential.net/40b4b72f-2ea6-4f73-b868-6cf8bf3fc9d7)
 - [Leadership Essentials](https://www.credly.com/org/gp-strategies/badge/leadership-essentials)
 - [Oracle Siebel CRM Certified Professional](https://education.oracle.com/products/trackp_OSCRMOCP)
 
